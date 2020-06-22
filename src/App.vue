@@ -8,7 +8,7 @@
 </template>
 
 <script>
-    import { OAdjustments, OAnnotation } from "./components/Outline";
+    import { OAdjustments, OAnnotation } from "./lib";
     export default {
         components: {OAdjustments, OAnnotation}
     }
