@@ -1,16 +1,17 @@
 <template>
     <div id="app" class="bg-gray-200 min-h-screen text-gray-800">
         <div class="container mx-auto pt-32">
-            <o-adjustments classes="w-8 text-indigo-400" />
-            <o-annotation classes="w-8 text-indigo-400" />
+            <o-adjustments classes="w-8 text-indigo-400 inline-block" />
+            <o-annotation classes="w-8 text-indigo-400 inline-block" />
+            <s-user classes="w-8 text-indigo-400 inline-block" />
         </div>
     </div>
 </template>
 
 <script>
-    import { OAdjustments, OAnnotation } from "./lib";
+    import { OAdjustments, OAnnotation, SUser } from "./lib";
     export default {
-        components: {OAdjustments, OAnnotation}
+        components: {OAdjustments, OAnnotation, SUser}
     }
 </script>
 
