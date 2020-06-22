@@ -4,14 +4,14 @@ A package to easily make use of [Heroicons](https://github.com/refactoringui/her
 
 For a full list of available icons see [the SVG directory](resources/svg) or preview them at [heroicons.dev](https://heroicons.dev). Heroicons are originally developed by [Steve Schoger](https://twitter.com/steveschoger) and [Adam Wathan](https://twitter.com/adamwathan).
 
-## Installation using NPM
+## Installation
 
+Using NPM
 ```bash
 npm install vue-heroicons
 ```
 
-## Installation using Yarn
-
+Using Yarn
 ```bash
 yarn add vue-heroicons
 ```
