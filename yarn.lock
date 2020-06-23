@@ -7971,6 +7971,15 @@ vm-browserify@^1.0.1:
   resolved "https://registry.npm.taobao.org/vm-browserify/download/vm-browserify-1.1.2.tgz#78641c488b8e6ca91a75f511e7a3b32a86e5dda0"
   integrity sha1-eGQcSIuObKkadfUR56OzKobl3aA=
 
+vue-heroicons2@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/vue-heroicons2/-/vue-heroicons2-0.1.0.tgz#e8e95de4bdfde2bf9c5af4c85bbf388490d9fa45"
+  integrity sha512-ddCdHyD5yhPNbnfpD33hGT0dJyG635v/G2NNyCXctDAqZcK8qcERasdXo/pS6y9FjpHyPXBWViGYQmkUIDkgXA==
+  dependencies:
+    core-js "^3.6.5"
+    tailwindcss "^1.4.6"
+    vue "^2.6.11"
+
 vue-hot-reload-api@^2.3.0:
   version "2.3.4"
   resolved "https://registry.npm.taobao.org/vue-hot-reload-api/download/vue-hot-reload-api-2.3.4.tgz#532955cc1eb208a3d990b3a9f9a70574657e08f2"

@@ -1,4 +1,4 @@
-# Vue Heroicons
+# Vue Heroicons2
 
 A package to easily make use of [Heroicons](https://github.com/refactoringui/heroicons) in your Vue components.
 
