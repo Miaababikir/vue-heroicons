@@ -13,7 +13,7 @@
     "url": "https://github.com/Miaababikir/vue-heroicons2"
   },
   "private": false,
-  "main": "./dist/vue-heroicons.common.js",
+  "main": "./dist/vue-heroicons2.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
