@@ -17,7 +17,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "build-lib": "vue-cli-service build --target lib --name vue-heroicons src/lib.js"
+    "build-lib": "vue-cli-service build --target lib --name vue-heroicons2 src/lib.js"
   },
   "dependencies": {
     "core-js": "^3.6.5",
