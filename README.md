@@ -6,14 +6,12 @@ For a full list of available icons see [the SVG directory](resources/svg) or pre
 
 ## Installation
 
-Using NPM
 ```bash
-npm install vue-heroicons
-```
+// using npm
+npm install vue-heroicons2
 
-Using Yarn
-```bash
-yarn add vue-heroicons
+// using yarn
+yarn add vue-heroicons2
 ```
 
 ## Usage
@@ -21,7 +19,7 @@ yarn add vue-heroicons
 You can import whatever icons you want
 
 ```javascript
-import { OAdjustments, OUsers } from "vue-heroicons";
+import { OAdjustments, OUsers } from "vue-heroicons2";
 ```
 
 Icons can be used a self-closing Vue components which will be compiled to SVG icons:

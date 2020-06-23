@@ -1,6 +1,17 @@
 {
-  "name": "vue-heroicons",
+  "name": "vue-heroicons2",
+  "author": "miaababikir",
   "version": "0.1.0",
+  "license": "MIT",
+  "description": "A package to easily make use of Heroicons in your Vue components.",
+  "files": [
+    "dist/*",
+    "src/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Miaababikir/vue-heroicons"
+  },
   "private": false,
   "main": "./dist/vue-heroicons.common.js",
   "scripts": {
@@ -19,5 +30,9 @@
     "node-sass": "^4.12.0",
     "sass-loader": "^8.0.2",
     "vue-template-compiler": "^2.6.11"
-  }
+  },
+  "keywords": [
+    "vue",
+    "vuejs"
+  ]
 }
