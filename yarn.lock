@@ -3533,9 +3533,9 @@ flush-write-stream@^1.0.0:
     readable-stream "^2.3.6"
 
 follow-redirects@^1.0.0:
-  version "1.12.1"
-  resolved "https://registry.npm.taobao.org/follow-redirects/download/follow-redirects-1.12.1.tgz?cache=0&sync_timestamp=1592518230545&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Ffollow-redirects%2Fdownload%2Ffollow-redirects-1.12.1.tgz#de54a6205311b93d60398ebc01cf7015682312b6"
-  integrity sha1-3lSmIFMRuT1gOY68Ac9wFWgjErY=
+  version "1.14.8"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.8.tgz#016996fb9a11a100566398b1c6839337d7bfa8fc"
+  integrity sha512-1x0S9UVJHsQprFcEC/qnNzBLcIxsjAV905f/UkQxbclCsoTWlacCNOpQa/anodLl2uaEKFhfWOvM2Qg77+15zA==
 
 for-in@^1.0.2:
   version "1.0.2"
@@ -7970,14 +7970,6 @@ vm-browserify@^1.0.1:
   version "1.1.2"
   resolved "https://registry.npm.taobao.org/vm-browserify/download/vm-browserify-1.1.2.tgz#78641c488b8e6ca91a75f511e7a3b32a86e5dda0"
   integrity sha1-eGQcSIuObKkadfUR56OzKobl3aA=
-
-vue-heroicons2@^0.2.3:
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/vue-heroicons2/-/vue-heroicons2-0.2.3.tgz#2b47277e98e1b5bac417c0abb61d7ead3f12b625"
-  integrity sha512-Bt+h+qhW5O/mhm2N4Thz/cT/Qcthzwk7pAJQJYUSExvwvgI+F6aqfwedQlsSdrTVQHn2Yp8+ctZA69kriFc+Ow==
-  dependencies:
-    core-js "^3.6.5"
-    vue "^2.6.11"
 
 vue-hot-reload-api@^2.3.0:
   version "2.3.4"
